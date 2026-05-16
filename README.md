@@ -93,24 +93,24 @@ The automation process was designed to streamline discount approval routing, imp
 
 1. Opportunity Creation 
 
-![Opportunity Created](Assets/Screenshot_17.png)
+![Opportunity Created](Assets/Opportunity_object_Image.png)
 *An Opportunity is created by a sales rep. In this case, with a 40% discount request. This goes to the Manager for approval.*
 
 ---
  
 2. Approval Threshold Evaluation
 
-![Approval Threshold Evaluation](Assets/Screenshot_18.png)
+![Approval Threshold Evaluation](Assets/Opportunity_Approval_Pending.png)
 *The opportunity process pauses until there is an approval from the required approval. In this case, the Manager*
 
 ---
 
 3. Notification & Status Update
 
-![Approval Request Notification](Assets/Screenshot_19.png)
+![Approval Request Notification](Assets/Discount_Approval_submission.png)
 *Immediately the opportunity discount is updated by the rep, an email is sent to the required approver, the manager in this case.*
 
-![Approval Request Notification](Assets/Screenshot_20.png)
+![Approval Request Notification](Assets/Discount_Approved_Email.png)
 *After the manager has approved the discount request, an email is sent to the sales rep who is the owner of the opportunity.*
 
 ![Discount Approval Status Report](Assets/Report_Image.jpg)
